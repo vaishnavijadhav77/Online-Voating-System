@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evoting</string>
+    <string name="candidate_result">Candidate Result</string>
+    <string-array name="dept">
+        <item>Computer</item>
+        <item>Civil</item>
+        <item>Electronic</item>
+        <item>Medical Electronics</item>
+        <item>Dress Designing</item>
+    </string-array>
+</resources>
